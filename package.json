@@ -1,0 +1,23 @@
+{
+  "name": "propresenter-obs-scene-switcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/featherbear/propresenter-obs-scene-switcher.git"
+  },
+  "author": "featherbear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/featherbear/propresenter-obs-scene-switcher/issues"
+  },
+  "homepage": "https://github.com/featherbear/propresenter-obs-scene-switcher#readme",
+  "dependencies": {
+    "obs-websocket-js": "^4.0.1",
+    "ws": "^7.3.0"
+  }
+}
